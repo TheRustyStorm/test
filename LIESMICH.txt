@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 erste Aenderung! hund katze esel
+=======
+erste Aenderung! hund katze maus
+>>>>>>> test2
 
 
 Einschub!!!!
